@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f2dacb9-2c97-4fd8-86db-035d401dfbe9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UltrasonicDistance.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../IoT/Alexa" afterPath="$PROJECT_DIR$/../../IoT/Alexa" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LDR_Button/.idea/misc.xml" afterPath="$PROJECT_DIR$/../LDR_Button/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LDR_Button/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../LDR_Button/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../IoT/Hackathon/RelayAndLDRService/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../IoT/Hackathon/RelayAndLDRService/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../IoT/Hackathon/RelayAndLDRService/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../IoT/Hackathon/RelayAndLDRService/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
