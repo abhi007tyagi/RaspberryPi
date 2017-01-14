@@ -3,11 +3,11 @@ import paho.mqtt.client as mqtt
 
 
 GPIO.setmode(GPIO.BCM)
-motorAPin1 = 21
-motorAPin2 = 20
+motorAPin1 = 21  # pin 40
+motorAPin2 = 20  # pin 38
 
-motorBPin1 = 24
-motorBPin2 = 23
+motorBPin1 = 24  # pin 18
+motorBPin2 = 23  # pin 16
 
 GPIO.setup(motorAPin1, GPIO.OUT)
 GPIO.setup(motorAPin2, GPIO.OUT)
